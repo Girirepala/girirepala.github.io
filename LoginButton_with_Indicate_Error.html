@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Girirepala</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+ 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+ 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+<body>
+	<div class="container">
+		<h2>Login page</h2>
+		<form class="col-md-4" method="post" onsubmit ="return validateForm()">
+			<div>
+			<label>UserName</label>
+			<input type="text" class="form-control" id="giri" autocomplete="off">
+			<span id="hh" style="font-weight: bold; color: red"></span>
+			</div><br>
+			<div>
+			<label>password</label>
+			<input type="password" class="form-control" id="vamshi" autocomplete="off">
+			<span id="aa" style="font-weight: bold; color: red"></span><br>
+			</div>
+			<label><input type="checkbox"> Remember me</label><br>
+			<a href="#" style="text-decoration: none;">Forget Password</a>
+
+			<button class="btn btn-info" style="width: 140px; margin-left: 210px;margin-top: -60px"  value="submit" name="submit">submit</button>			
+		</form>
+	</div>
+	<script type="text/javascript">
+	function validateForm() {
+		var user = document.getElementById("giri").value
+		var pass = document.getElementById("vamshi").value
+
+		if (user =="") {
+  document.getElementById("hh").innerHTML = " **Please Enter a user";
+  return false;
+  }
+  else {
+  	document.getElementById("hh").innerHTML = "";
+  //	return true;
+  }
+
+  if (pass =="") {
+  document.getElementById("aa").innerHTML = " **Please Enter a password";
+    return false;
+  }
+  else {
+  	document.getElementById("aa").innerHTML = "";
+  	//return true;
+  }
+}
+
+
+
+</script>
+	</body>
+
+</html>

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Mylogin</title>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	<style type="text/css">
+		.btn-success{
+			display: none;
+		}
+	</style>
+</head>
+<body>
+	<div class="container">
+	<h2><i><b>Welcome To LoginPage</b></i></h2><br>
+<form class="container col-sm-4">
+  <div class="form-group" >
+    <label for="email">Email address:</label>
+    <input type="email"  id="email" autocomplete="off" class="form-control">
+  </div>
+  <div class="form-group" >
+    <label for="pwd">Password:</label>
+    <input type="password" class="form-control" id="pwd"autocomplete="off">
+  </div>
+  <div class="checkbox">
+    <label><input type="checkbox"> I accept the Login  </label>
+  </div>
+  <button type="submit" class="btn btn-success">Submit</button>
+</form>
+</div>
+<script>
+	$(document).ready(function() {
+			$('.checkbox').click(function(){
+			$('.btn-success').toggle();
+			});
+		});
+</script>
+
+</body>
+</html>
