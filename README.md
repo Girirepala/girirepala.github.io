@@ -13,7 +13,14 @@
 	body{
 		background-image:linear-gradient(to left, red, yellow);
 	}
-	
+	/*h1{
+		text-align: center;
+		font-size: 5.5em;
+		font-family:Times New Roman;
+		font-weight: bold;
+		color:white;
+		text-shadow: 2px 4px grey;
+		}*/
 	p{
 		text-align: center;
 		font-family:Gabriola;
@@ -42,8 +49,8 @@
 </style>
 <body>
 	<div>
-<p style=""font-family:48px">Repala Yadagiri</p>
-<p>My Projects </p></div><br><br>
+<p style="font-size: 48px; color: white;">Repala Yadagiri</p>
+<p style="font-size: 35px;">My Projects </p></div><br><br>
 <div class="container" style="text-align: center;">
 	<a href="https://girirepala.github.io/SLN_Pooja_Store/HOME.html" class=" btn btn-primary">SLN Pooja Store</a>
 	<a href="https://girirepala.github.io/LoginButton_with_Indicate_Error.html" class=" btn btn-primary">Login Button with Indicate Error</a>
@@ -56,7 +63,5 @@
 " class=" btn btn-primary">Design-01</a>
 <a href="https://girirepala.github.io/Reg_Form_Validation_with_alertbox.html
 " class=" btn btn-primary">Reg Form Validation with alert box</a>
-
 </div>
-
 </body>
