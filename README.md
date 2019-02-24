@@ -54,7 +54,7 @@
 <p>My Projects </p></div><br><br>
 <div class="container" style="text-align: center;">
 	<a href="https://girirepala.github.io/SLN_Pooja_Store/HOME.html" class=" btn btn-primary">SLN Pooja Store</a>
-	<a href="https://girirepala.github.io/LoginButton_with_Indicate_Error.html"class=" btn btn-primary">Login Button with Indicate Error</a>
+	<a href="https://girirepala.github.io/LoginButton_with_Indicate_Error.html" class=" btn btn-primary">Login Button with Indicate Error</a>
 	<a href="https://girirepala.github.io/Login_Button_Show-Hide action.html" class=" btn btn-primary">Login Button Show-Hide action</a>
 	<a href="https://girirepala.github.io/button_animation.html
 " class=" btn btn-primary">button animation</a>
