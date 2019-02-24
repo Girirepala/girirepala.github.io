@@ -16,7 +16,6 @@
 	
 	p{
 		text-align: center;
-		font-size: 4em;
 		font-family:Gabriola;
 		font-weight: bold;
 		color:yellow;
@@ -43,7 +42,7 @@
 </style>
 <body>
 	<div>
-<p>Repala Yadagiri</p>
+<p style=""font-family48px">Repala Yadagiri</p>
 <p>My Projects </p></div><br><br>
 <div class="container" style="text-align: center;">
 	<a href="https://girirepala.github.io/SLN_Pooja_Store/HOME.html" class=" btn btn-primary">SLN Pooja Store</a>
