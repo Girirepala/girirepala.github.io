@@ -49,8 +49,8 @@
 </style>
 <body>
 	<div>
-<p style="font-size: 48px; color: white;">Repala Yadagiri
-		<span style="font-size: 35px;">My Projects</span> </p></div><br><br>
+<p style="font-size: 56px; color: white;">Repala Yadagiri
+		<span style="font-size: 35px;color:yellow;"> &nbspMy Projects</span> </p></div><br><br>
 <div style="text-align: center;">
 	<a href="https://girirepala.github.io/SLN_Pooja_Store/HOME.html" class=" btn btn-primary">SLN Pooja Store</a>
 	<a href="https://girirepala.github.io/LoginButton_with_Indicate_Error.html" class=" btn btn-primary">Login Button with Indicate Error</a>
