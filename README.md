@@ -42,7 +42,7 @@
 </style>
 <body>
 	<div>
-<p style=""font-family48px">Repala Yadagiri</p>
+<p style=""font-family:48px">Repala Yadagiri</p>
 <p>My Projects </p></div><br><br>
 <div class="container" style="text-align: center;">
 	<a href="https://girirepala.github.io/SLN_Pooja_Store/HOME.html" class=" btn btn-primary">SLN Pooja Store</a>
