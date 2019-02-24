@@ -13,14 +13,7 @@
 	body{
 		background-image:linear-gradient(to left, red, yellow);
 	}
-	h1{
-		text-align: center;
-		font-size: 5.5em;
-		font-family:Times New Roman;
-		font-weight: bold;
-		color:white;
-		text-shadow: 2px 4px grey;
-		}
+	
 	p{
 		text-align: center;
 		font-size: 4em;
