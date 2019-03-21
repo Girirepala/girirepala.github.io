@@ -29,12 +29,11 @@
 		text-shadow: 2px 2px grey;
 		margin-top: -5px;
 		word-spacing: -2px;
-		padding-bottom: 5px;
 		border-bottom: 2px solid white;
 	}
 	.btn{
 		padding: 25px;
-		font-size: 34px;
+		font-size: 32px;
 		border-radius: 100px;
 		color: #FFF;
 		margin-bottom: 15px; 
@@ -50,7 +49,7 @@
 <body>
 	<div>
 <p style="font-size: 60px; color: white;">Repala Yadagiri
-		<span style="font-size: 45px;color:yellow;padding-bottom:-20px;"><br>My Projects</span> </p></div><br><br>
+		<span style="font-size: 45px;color:yellow;"><br>My Projects</span> </p></div><br><br>
 <div style="text-align: center;">
 	<a href="https://girirepala.github.io/SLN_Pooja_Store/HOME.html" class=" btn btn-primary">SLN Pooja Store</a>
 	<a href="https://girirepala.github.io/LoginButton_with_Indicate_Error.html" class=" btn btn-primary">Login Button with Indicate Error</a>
