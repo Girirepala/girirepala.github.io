@@ -33,8 +33,8 @@
 	}
 	.btn{
 		padding: 25px;
-		font-size: 32px;
-		border-radius: 100px;
+		font-size: 30px;
+		border-radius: 110px;
 		color: #FFF;
 		margin-bottom: 15px; 
 	}
