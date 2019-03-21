@@ -34,7 +34,7 @@
 	}
 	.btn{
 		padding: 25px;
-		font-size: 24px;
+		font-size: 32px;
 		border-radius: 100px;
 		color: #FFF;
 		margin-bottom: 15px; 
